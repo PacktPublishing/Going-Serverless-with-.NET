@@ -87,3 +87,7 @@ C# programming knowledge <br/> 
 
 
 * [Beginning Modern C# and .NET Development](https://prod.packtpub.com/in/application-development/beginning-modern-c-and-net-development)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781787281295">https://packt.link/free-ebook/9781787281295 </a> </p>
